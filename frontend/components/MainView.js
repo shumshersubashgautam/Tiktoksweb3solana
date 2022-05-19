@@ -1,4 +1,4 @@
-import { Signup } from './signup'
+import { Signup } from './Signup'
 import Video from './video'
 import { useEffect, useState } from 'react'
 import { useWallet } from '@solana/wallet-adapter-react'
